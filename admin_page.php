@@ -29,7 +29,7 @@ if(!isset($_SESSION['admin_name'])){
       <h3>hi, <span>admin</span></h3>
       <h1>welcome <span><?php echo $_SESSION['admin_name'] ?></span></h1>
       <p>this is an admin page</p>
-      <a href="menuDashboard.php" class="btn">Dashboard</a>
+      <a href="Dashboard.php" class="btn">Dashboard</a>
       <a href="logout.php" class="btn">LogOut</a>
    </div>
 </div>
