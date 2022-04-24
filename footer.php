@@ -5,5 +5,5 @@
     <i class="fab fa-twitter"></i>
     <br><br>
     <hr id="hr_">
-    <a href="index.html">www.H A L T .com</a>
+    <p>Created by <span>Alsona Smajli & Fatlinda Berisha</span> | all rights reserved</p>
 </footer>
