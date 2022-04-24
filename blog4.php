@@ -57,7 +57,7 @@
             
         </div>
     </div>
-    <h1 class="h1-blog">Morning Routine</h1>
+    <h1 class="h1-blog">Simple Meditation for Beginners</h1>
     <hr id="hr1">
     <br class="br-blog">
     <div class="p-blog">
