@@ -113,6 +113,8 @@
     </div>
 
 </div>
+
+
  
 <div class="start_now">
     <h1>Get started with H A L T, today.</h1>

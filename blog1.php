@@ -57,6 +57,8 @@
             
         </div>
     </div>
+     
+    
     <h1 class="h1-blog">Morning Routine</h1>
     <hr id="hr1">
     <br class="br-blog">
@@ -83,15 +85,7 @@
             </h3>
         </div>
     
-        <footer>
-        <h1>Questions?</h1>
-        <i class="fab fa-facebook"></i>
-        <i class="fab fa-instagram"></i>
-        <i class="fab fa-twitter"></i>
-        <br><br>
-        <hr id="hr_">
-        <div class="credit">created by <span>Alsona Smajli & Fatlinda Berisha</span> | all rights reserved</div>
-    </footer>
+        <?php include 'footer.php';  ?>
     <script src="js/main.js"></script>
 </body>
 </html>

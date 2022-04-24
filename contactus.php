@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H A L T therapy</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="contactus.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
@@ -82,6 +82,6 @@ textarea {
     </main>
 
 
-    <?php include 'footer.php';  ?>
+    
 </body>
 </html>
