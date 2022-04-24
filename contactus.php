@@ -1,5 +1,4 @@
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,16 +9,15 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+    
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Corinthia:wght@700&display=swap" rel="stylesheet">
-
-
+    
     <style>
-
+    
     form {
     width: 400px;
     margin: 15vh auto 0 auto;
@@ -52,20 +50,18 @@ p{
     color: rgb(62, 90, 62);
     font-size: 43px;
     text-align: center;
-    font-weight:bold;
-   
-    
+    font-weight:bold;    
 }
 textarea {
    resize: none;
    border: 2px solid #f0f0f0;
    border-radius: 4px;
-	display: block;
-	font-size: 12px;
-	padding: 10px;
-	width: 100%;
+   display: block;
+   font-size: 12px;
+   padding: 10px;
+   width: 100%;
 }
-    </style>
+</style>
 </head>
 <body>
     
@@ -81,7 +77,9 @@ textarea {
         </form>
     </main>
 
+    
 
     
+
 </body>
 </html>

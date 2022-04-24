@@ -85,31 +85,27 @@
     </div>
     
 </div>
-
-
-   
    <h1>Our blog</h1>
-
-<div class="our_blog">
+   <div class="our_blog">
 
     <div class="blog_1">
         <img src="img/morning.jpg" alt="">
-        <a href=""><p>Morning Routine to Make You Happy And Productive All Day</p></a>
+        <a href="blog1.php"><p>Morning Routine to Make You Happy And Productive All Day</p></a>
     </div>
 
     <div class="blog_2">
         <img src="img/happy.jpg" alt="">
-       <a href=""><p>Mental Health Day Off</p></a>
+       <a href="blog2.php"><p>Mental Health Day Off</p></a>
     </div>
 
     <div class="blog_3">
         <img src="img/smile.jpg" alt="">
-        <a href=""><p>Anxiety Exercises to Help You Relax</p></a>
+        <a href="blog3.php"><p>Anxiety Exercises to Help You Relax</p></a>
     </div>
 
     <div class="blog_4">
         <img src="img/meditation.jpg" alt="">
-        <a href=""><p>Simple Meditation for Beginners</p></a>
+        <a href="blog4.php"><p>Simple Meditation for Beginners</p></a>
     </div>
 
 </div>

@@ -69,7 +69,7 @@
             Its benefits are better physical, mental, and emotional health and well-being. Research suggests self-care promotes positive health 
             outcomes, such as fostering resilience, living longer, and becoming better equipped to manage stress.</p>
         <br><br>
-        <h2>Take a Day</h2>
+        <h2 class="h2_blog">Take a Day</h2>
         <br>
         <p>Once you have decided to take a mental health day, the question then becomes "when and how?"</p><br>
         <p>The best way to avoid feeling stressed about taking a day off is to schedule a day off ahead of time, 
