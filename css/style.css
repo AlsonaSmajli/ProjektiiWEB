@@ -109,9 +109,6 @@ nav{
         display: block;
         
     }
-   
-
-
 
 }
 
@@ -584,3 +581,153 @@ footer a{
 }
 
 
+/* Blog */
+.h1-blog{
+    padding-top: 40px;
+    color: rgb(62, 90, 62);
+    font-size: 70px;
+    text-align: center;
+    font-weight:bold;
+}
+#hr1{
+    width: 50%;
+    margin: auto;
+    border-top: 3px dashed rgb(62, 100, 62) ;
+}
+.br-blog{
+    border-spacing: 7px;
+}
+.p-blog {
+    margin-left: 50px;
+    width: 1070px;
+    height: 650px;
+    text-align: justify;
+}
+.p-blog p{
+    color: black;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.ul-blog{
+    list-style: square;
+    margin-left: 65px;
+    text-align: justify;
+    font-size: 20px;
+}
+/* Slider */
+#slider {
+    margin: 0 auto;
+    text-align: center;
+}
+#slider input[type=radio] {
+    display: none;
+}
+#slider label {
+    cursor:pointer;
+    text-decoration: none;
+}
+#slides {
+    z-index: 1;
+}
+#overflow {
+    width: 100%;
+    overflow: hidden;
+}
+#slide1:checked ~ #slides .inner {
+    margin-left: 0;
+}
+#slide2:checked ~ #slides .inner {
+    margin-left: -100%;
+}
+#slide3:checked ~ #slides .inner {
+    margin-left: -200%;
+}
+#slide4:checked ~ #slides .inner {
+    margin-left: -300%;
+}
+#slides .inner {
+    transition: margin-left 800ms cubic-bezier(0.770, 0.000, 0.175, 1.000);
+    width: 400%;
+    line-height: 0;
+    height: 408px;
+}
+#slides .slide {
+    width: 25%;
+    float:left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: #fff;
+} 
+#controls {
+    margin: -180px 0 0 0;
+    width: 100%;
+    height: 50px;
+    z-index: 3;
+    position: relative;
+}
+#controls label {
+    transition: opacity 0.2s ease-out;
+    display: none;
+    width: 50px;
+    height: 50px;
+    opacity: .4;
+}
+#controls label:hover {
+    opacity: 1;
+}
+#bullets {
+    margin: 150px 0 0;
+    text-align: center;
+}
+#bullets label {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius:100%;
+    background: rgb(99, 161, 99);
+    margin: 0 10px;
+}
+#slide1:checked ~ #bullets label:nth-child(1),
+#slide2:checked ~ #bullets label:nth-child(2),
+#slide3:checked ~ #bullets label:nth-child(3),
+#slide4:checked ~ #bullets label:nth-child(4) {
+    background: #444;
+}
+#slides {
+    max-width: calc(100% - 140px);
+    margin: 0 auto;
+}
+.Mental-HealthCare{
+    width: 100%;
+    height: 100%;
+}
+ol{
+    list-style: none; 
+    counter-reset: li;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.li-ol::before{
+    content: counter(li); 
+    color: rgb(76, 134, 76);
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+}
+.li-ol{
+    counter-increment: li;
+}
+.h1-blog2{
+    padding-top: 40px;
+    color: rgb(62, 90, 62);
+    font-size: 50px;
+    text-align: center;
+    font-weight:bold;
+}
+#hr1-2{
+    width: 60%;
+    margin: auto;
+    border-top: 3px dashed rgb(62, 100, 62) ;
+}
