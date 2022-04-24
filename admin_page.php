@@ -23,9 +23,8 @@ if(!isset($_SESSION['admin_name'])){
 
 </head>
 <body>
-   
-<div class="container">
-
+   <div class="container">
+      
    <div class="content">
       <h3>hi, <span>admin</span></h3>
       <h1>welcome <span><?php echo $_SESSION['admin_name'] ?></span></h1>
@@ -33,7 +32,6 @@ if(!isset($_SESSION['admin_name'])){
       <a href="view.php.php" class="btn">Dashboard</a>
       <a href="logout.php" class="btn">LogOut</a>
    </div>
-
 </div>
 
 </body>
