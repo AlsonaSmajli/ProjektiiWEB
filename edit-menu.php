@@ -6,7 +6,7 @@ require_once 'MenuController.php';
  }
 
  $news =new MenuController;
- $currenNews = $new-> edit($newsId);
+ $currenNews = $news-> edit($newsId);
 
 //update
  if(isset($_POST['submit'])){
@@ -17,11 +17,11 @@ require_once 'MenuController.php';
 
 <form method="post">
     Image:
-    <input type="file" name="image" value="<?php echo $currenNews['menu_image']; ?>"><br>
+    <input type="file" name="image" value="<?php echo $currenNews['news_image']; ?>"><br>
     Title:
-    <input type="text" name="title" value="<?php echo $currenNews['menu_title']; ?>"><br>
+    <input type="text" name="title" value="<?php echo $currenNews['news_title']; ?>"><br>
     Body:
-    <input type="text" name="body" value="<?php echo $currenNews['menu_body']; ?>"><br>
+    <input type="text" name="body" value="<?php echo $currenNews['news_body']; ?>"><br>
     <input type="submit" name="submit" value="Update">
 
 

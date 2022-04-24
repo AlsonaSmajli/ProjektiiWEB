@@ -71,8 +71,8 @@
              <td><?php echo $news['news_title']; ?></td>
              <td><?php echo $news['news_body'];  ?></td>
 
-             <td><a href="edit-menu.php?id=<?php echo $menu['Id']; ?> ">Edit</a></td>
-             <td><a href="delete-menu.php?id=<?php echo $menu['Id']; ?>">Delete</a></td>
+             <td><a href="edit-menu.php?id=<?php echo $news['Id']; ?> ">Edit</a></td>
+             <td><a href="delete-menu.php?id=<?php echo $news['Id']; ?>">Delete</a></td>
              <td><a href="create-menu.php?id=<?php echo $news['Id']; ?> ">Create new</a></td>
              
            </tr>
