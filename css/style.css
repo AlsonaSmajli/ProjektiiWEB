@@ -664,38 +664,3 @@ input[type=text], textarea {
     max-width: calc(100% - 140px);
     margin: 0 auto;
 }
-.Mental-HealthCare{
-    width: 100%;
-    height: 100%;
-}
-ol{
-    list-style: none; 
-    counter-reset: li;
-    font-size: 20px;
-    line-height: 1.2;
-}
-.li-ol::before{
-    content: counter(li); 
-    color: rgb(59, 99, 59);
-    display: inline-block; 
-    width: 1em;
-    margin-left: -1em;
-}
-.li-ol{
-    counter-increment: li;
-}
-.h1-blog2{
-    padding-top: 40px;
-    color: rgb(59, 99, 59);
-    font-size: 50px;
-    text-align: center;
-    font-weight:bold;
-}
-#hr1-2{
-    width: 60%;
-    margin: auto;
-    border-top: 3px dashed rgb(59, 99, 59);
-}
-.h2_blog{
-    color: rgb(59, 99, 59);
-}
