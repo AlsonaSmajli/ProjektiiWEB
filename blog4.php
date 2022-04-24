@@ -65,7 +65,7 @@
             It’s a way of understanding all of our degrees of self-awareness and eventually experiencing the core of consciousness inside. 
             If you want to practice meditation and get in the habit of mindfulness, here are the things you should know about meditation for beginners.</p><br>
         
-        <h2>What Happens During Meditation?</h2><br>
+        <h2 class="h2_blog">What Happens During Meditation?</h2><br>
         <p>The mind is calm, relaxed, and inwardly concentrated during meditation. 
             You are fully awake and alert while you meditate, but your mind is not based on the outside world or the activities that are taking place around you. 
             Meditation necessitates an inner state of stillness and focuses on the mind to become silent. Meditation deepens when the mind is still and no longer distracts you.</p><br>

@@ -22,22 +22,15 @@ nav{
     letter-spacing: 5px;
     font-size: 25px;
     padding: 14px;
-    
-
-
 }
 .hide{
-    display: none;
-   
-    
+    display: none; 
 }
 .titte:hover + .hide {
     display: block;
     color:rgb(48, 85, 48) ;
     background-color: rgb(179, 201, 179);
-   
-  }
-
+}
 
 .nav-links{
     display: flex;
@@ -45,8 +38,7 @@ nav{
     width: 30%;
 }
 .nav-links li{
-    list-style-type: none;
-    
+    list-style-type: none;    
 }
 .nav-links a{
     color: rgb(60, 104, 60);
@@ -54,10 +46,8 @@ nav{
     letter-spacing: 3px;
     font-weight: bold;
     font-size: 14px;
-   padding: 15px;
-   transition: background-color 2s;
-    
-
+    padding: 15px;
+    transition: background-color 2s;
 }
 
 .nav-links a:hover{
@@ -80,11 +70,9 @@ nav{
     .nav-links{
         width: 60%;
     }
-
 }
 @media screen and (max-width:900px){
-    body{
-        
+    body{   
         overflow-x: hidden;
     }
     .nav-links{
@@ -100,16 +88,13 @@ nav{
         transform: translateX(100%);
         transition: transform 0.5s ease-in;
         ;
-
     }
     .nav-links a{
         color: white;
     }
     .burger{
         display: block;
-        
     }
-
 }
 
 .nav-active{
@@ -138,9 +123,7 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-   height: 90vh;
-  
-  
+    height: 90vh;
 }
 .content{
     height: 100%;
@@ -206,10 +189,10 @@ nav{
 .text3{
     padding: 70px;
     width: 60%;
-     color: rgb(47, 77, 47);
-     font-size: 22px;
-     text-align: center;
-     font-weight:bold;
+    color: rgb(47, 77, 47);
+    font-size: 22px;
+    text-align: center;
+    font-weight:bold;
 }
 .our_services{
    width: 100%;
@@ -217,7 +200,6 @@ nav{
    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
    grid-gap:20px;
    background-color:rgb(82, 116, 82);
-   
 }
 .our_services img {
     width:  100%;
@@ -240,8 +222,6 @@ footer{
    height: 190px;
    text-align: center;
    padding: 70px;
-   
-  
 }
 footer h1{
     font-size: 62px;
@@ -252,16 +232,12 @@ footer h1{
 footer i{
     color: rgb(57, 95, 57);
     font-size: 40px;
-
 }
 #hr_{
-  
     width: 60%;
     height: 4px;
     margin: auto;
     background-color:rgb(62, 100, 62) ;
-   
-   
 }
 footer a{
     color: rgb(54, 92, 54);
@@ -270,7 +246,6 @@ footer a{
     padding-top: 80px;
 }
 .our_blog{
-    
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap:20px;
@@ -289,11 +264,10 @@ footer a{
 .our_blog p{
     width: 90%;
     margin: auto;
-    
     color:rgb(34, 80, 34) ;
 }
 
- h1{
+h1{
     padding-top: 90px;
     color: rgb(62, 90, 62);
     font-size: 63px;
@@ -304,7 +278,6 @@ footer a{
    background-color: rgb(100, 128, 100);
    width: 100%;
    height: 460px;
-  
    text-align: center;
 }
 .start_now h1{
@@ -356,8 +329,6 @@ footer a{
 }
 .ourServices{
     background-color:white;
-   
-    
 }
 .ourServices h2{
     text-align: center;
@@ -411,9 +382,6 @@ footer a{
     color: black;
     background-color: rgb(115, 155, 115);
     border-radius: 50%;
-    
-    
-    
 }
 
 .services-1 h3{
@@ -429,8 +397,6 @@ footer a{
     text-align: center;
     color: rgb(57, 95, 57);
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
-    
 }
 .services-1 p{
     font-size:19px;
@@ -492,22 +458,22 @@ footer a{
     width:30%;
     float:right;
     padding:10px;
-  }
-  .contactUs-container h1{
+}
+.contactUs-container h1{
     margin-bottom: 5px;
     margin-top :5px;
     font-size: 20px;
     font-weight: 800;
     text-align: left;
-  }
-  input[type=text], textarea {
+}
+input[type=text], textarea {
     width: 280px;
     padding: 12px;
     border: 1px solid #ccc;
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
-  }
+}
 
 @media screen and (max-width:900px){
     .text h1{
@@ -577,14 +543,13 @@ footer a{
      .start_now h1{
          font-size: 42px;
      }
-
 }
 
 
 /* Blog */
 .h1-blog{
     padding-top: 40px;
-    color: rgb(62, 90, 62);
+    color: rgb(59, 99, 59);
     font-size: 70px;
     text-align: center;
     font-weight:bold;
@@ -592,7 +557,7 @@ footer a{
 #hr1{
     width: 50%;
     margin: auto;
-    border-top: 3px dashed rgb(62, 100, 62) ;
+    border-top: 3px dashed rgb(62, 100, 62);
 }
 .br-blog{
     border-spacing: 7px;
@@ -711,7 +676,7 @@ ol{
 }
 .li-ol::before{
     content: counter(li); 
-    color: rgb(76, 134, 76);
+    color: rgb(59, 99, 59);
     display: inline-block; 
     width: 1em;
     margin-left: -1em;
@@ -721,7 +686,7 @@ ol{
 }
 .h1-blog2{
     padding-top: 40px;
-    color: rgb(62, 90, 62);
+    color: rgb(59, 99, 59);
     font-size: 50px;
     text-align: center;
     font-weight:bold;
@@ -729,5 +694,10 @@ ol{
 #hr1-2{
     width: 60%;
     margin: auto;
-    border-top: 3px dashed rgb(62, 100, 62) ;
+    border-top: 3px dashed rgb(59, 99, 59);
+}
+.h2_blog{
+    color: rgb(59, 99, 59);
+    text-align: center;
+    font-weight: bold;
 }

@@ -65,14 +65,14 @@
         <p>What you do in the morning – good or bad – sets the tone for the day. And your habits – good or bad – determine the quality of your life.</p><br>
         <p>There’s no such thing as a “perfect morning routine for success.” However, there is a productive morning routine that’s best for you.
         So, if you want to learn how to create a morning routine that’s perfect for you, try following these five simple steps.</p>
-        <br><h2>Find Your “Why”</h2><br>
+        <br><h2 class="h2_blog">Find Your “Why”</h2><br>
         <p>At first, sticking to a daily morning routine is tough. So, you need to know why you’re doing it. <br>
             For example, perhaps you want to earn more money, feel empowered, start a side hustle, write a book, get fit, eat healthier, or learn a new skill. Or perhaps you want to improve your mood, concentration, or sense of well being.
             Then, ask yourself why you want these things. <br>
             Maybe you want to earn more money so you can travel to Thailand, buy a nicer house for your family, or retire early? <br>
             Whatever it is, you need to have some good reasons to get up at 5 am.</p>
             <p>Remember:Your “why” is what will keep you going when times get tough – and they will get tough before they get easier.</p>
-            <br><h2>Start Small</h2><br>
+            <br><h2 class="h2_blog">Start Small</h2><br>
             <p>When developing new habits, it’s always best to take small, consistent steps over time.James Clear, the author of Atomic Habits, wrote, “Changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.”
                 Don’t shock your system. Change gradually, but consistently. Try to find one or two things to start with – three max. And start small. After a week of consistent wins, increase the challenge a little bit – just a little bit.
             </p>

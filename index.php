@@ -85,12 +85,8 @@
     </div>
     
 </div>
-
-
-   
    <h1>Our blog</h1>
-
-<div class="our_blog">
+   <div class="our_blog">
 
     <div class="blog_1">
         <img src="img/morning.jpg" alt="">
