@@ -27,7 +27,7 @@
                <div class="inner">
                   <div class="slide slide_1">
                      <div class="slide-content">
-                         <img src="img/motivational-text-yellow-background.jpg" alt="" class="Mental-HealthCare">
+                         <img src="img/text-yellow.jpg" alt="" class="Mental-HealthCare">
                      </div>
                   </div>
                   <div class="slide slide_2">
